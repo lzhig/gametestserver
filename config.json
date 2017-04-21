@@ -1,0 +1,9 @@
+{
+    "http_service_port":8888,
+    "platform_url":"play.kgame63.com",
+    "interface_hashinfo":"Api/getHashInfo",
+    "interface_login":"accounts/login",
+    "interface_register":"accounts/register",
+    "interface_gameinfo":"game/info",
+    "interface_balance":"accounts/getUserBalance"
+}
